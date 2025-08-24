@@ -9,7 +9,7 @@ jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
-      - name: Dispatch to astro-port
+      - name: Dispatch to meweb
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.PAT }}
