@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2025-August-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-August-24"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2025-August-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-August-24"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-bla-bla-bla.md",
+                "file": "2025-August-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-bla-bla-bla"
+              "title": "Outline of 2025-August-24"
             }
           }
         ],
@@ -171,10 +173,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "925ffe45ec4ea5c3",
+  "active": "badc81702b1d44ab",
   "lastOpenFiles": [
-    "Try again.md",
     "2025-bla-bla-bla.md",
+    "Try again.md",
     "New workflow test.md",
     "Trying again.md",
     "2025-August-24.md",
