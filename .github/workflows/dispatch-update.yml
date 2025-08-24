@@ -1,0 +1,17 @@
+name: Trigger Portfolio Update
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch to astro-port
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PAT }}
+          repository: Yuvraj-cyborg/astro-port
+          event-type: update-journal
