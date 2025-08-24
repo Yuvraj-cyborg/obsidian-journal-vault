@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "2928a3cce55dcb8c",
+            "id": "2b2312fae2ac8a77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trying again.md",
+                "file": "New workflow test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trying again"
+              "title": "New workflow test"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trying again.md",
+                "file": "New workflow test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trying again"
+              "title": "Backlinks for New workflow test"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trying again.md",
+                "file": "New workflow test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trying again"
+              "title": "Outgoing links from New workflow test"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trying again.md",
+                "file": "New workflow test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trying again"
+              "title": "Outline of New workflow test"
             }
           }
         ],
@@ -188,10 +188,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2928a3cce55dcb8c",
+  "active": "2b2312fae2ac8a77",
   "lastOpenFiles": [
-    "2025-August-24.md",
     "Trying again.md",
+    "New workflow test.md",
+    "2025-August-24.md",
     "Trying Again",
     "Test.md",
     "Welcome.md",
