@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-August-24"
             }
-          },
-          {
-            "id": "2b2312fae2ac8a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New workflow test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New workflow test"
-            }
-          },
-          {
-            "id": "b6c682bf9ad32893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try again.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Try again"
-            }
-          },
-          {
-            "id": "1f62bc63167c4af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-bla-bla-bla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-bla-bla-bla"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-bla-bla-bla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-bla-bla-bla"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-bla-bla-bla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-bla-bla-bla"
+              "title": "Outgoing links"
             }
           },
           {
@@ -216,7 +171,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1f62bc63167c4af5",
+  "active": "925ffe45ec4ea5c3",
   "lastOpenFiles": [
     "Try again.md",
     "2025-bla-bla-bla.md",
